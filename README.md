@@ -1,2 +1,2 @@
 # Python
-Python snippets
+Python code snippets
